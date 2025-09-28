@@ -44,10 +44,9 @@ such as most popular genres, content distribution across countries, and actor/di
 ## 🗂️ Project Structure
 
 Netflix_SQL_Analysis/
-│── README.md
-│── netflix_analysis.sql
-│── screenshots/
-
+├── README.md
+├── netflix_data.csv
+├── netflix_analysis.sql
 
 ---
 
