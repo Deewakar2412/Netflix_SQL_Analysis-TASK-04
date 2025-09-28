@@ -311,14 +311,15 @@ This project successfully demonstrates the power of SQL for conducting in-depth 
 
 ## 👨‍💻 Author
 
-* **Deewakar Kumar**
-* 📧 **Email**: deewakar2412@gmail.com
-* 📍 **Location**: Bokaro, Jharkhand, India
-* **LinkedIn**: `[Your LinkedIn Profile URL]`
-* **GitHub**: `[Your GitHub Profile URL]`
+**Deewakar Kumar**  
+📍 Bokaro, Jharkhand, India  
+📧 Email: deewakar2412@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/deewakar-kumar-b61652248/)  
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to use, share, and modify the code for learning and development purposes.
+This project is licensed under the MIT License.  
+Feel free to use, share, and modify for learning and development purposes.
+
